@@ -1,1 +1,2 @@
-# verbose-waffle
+# ÖZGÜR CANSIZ
+DELTA PLC WEINTEK HMI VE ARDUINO
